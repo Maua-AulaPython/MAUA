@@ -14,3 +14,5 @@ enquanto b> 0:
 media = (soma / a)
 mídia impressa
 
+# Nota: 0
+# Comentario: O Programa deve ser digitado inteiro na linguagem Python

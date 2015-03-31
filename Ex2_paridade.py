@@ -3,3 +3,6 @@ def  Paridade ( x ):
                 print  " eh par "
         outra coisa :
                 print  " eh Ímpar "
+
+# Nota: 0
+# Comentario: Creio que o codigo deva ser digitado em Python
