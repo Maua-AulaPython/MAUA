@@ -19,3 +19,6 @@ def M_dist():
                 if(d>b):
                     b=d
     return b
+
+# Nota: 1
+# Comentario: Cuidado com o excesso de complexidade!

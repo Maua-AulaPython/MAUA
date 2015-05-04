@@ -4,3 +4,6 @@ def triangulo(a,b,c):
     else:
         s=float(a*b)/2
         print 'A area desse triangulo e: ',s,' u.a.'
+
+# Nota: 0
+# Comentario: Esse script não funciona o ^ não é o operador exponencial
