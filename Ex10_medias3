@@ -20,3 +20,9 @@ for i in notas:
 if len(notas):
     print 'Media = ',soma/len(notas)
     print 'Maior Nota = ', max(notas)
+
+
+#Nota: 0.6
+#Comentario: Nao tem a extensao .py. O que acontece se eu digitar p.ex. 4.5 como
+#            nota? A media deve ser float e nao inteiro. O exercicio era o 8 e
+#            nao o 10
